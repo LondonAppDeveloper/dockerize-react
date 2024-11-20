@@ -19,4 +19,4 @@
 Tutorial code for dockerizing a react project.
 
  * [YouTube](https://youtu.be/v6SMDB3Sr2M)
- * Tutorial(https://londonappdeveloper.com/how-to-dockerize-a-react-project/)
+ * [Tutorial](https://londonappdeveloper.com/how-to-dockerize-a-react-project/)
